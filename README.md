@@ -6,3 +6,4 @@ This line is added after Commit 2
 This lineis added after modifying on branch hotfix
 This line is added after commit 1 on feature branch
 This line is merge on master branch
+This line is added after commit 2 on feature branch
