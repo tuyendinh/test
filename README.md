@@ -11,3 +11,4 @@ This line is added after commit 3 on feature branch
 This line is added after commit 4 on feature branch
 This line is added on master branch at 2rd times
 This is is add on feature branch at 1 times
+This is is add on feature1 branch at 1 times
